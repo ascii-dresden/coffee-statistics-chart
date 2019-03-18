@@ -1,0 +1,97 @@
+{
+"Espresso (Lua)": {
+	"language": "Lua",
+	"color": "#000080",
+	"altNames": ["Espresso (Lua)"]
+	},
+"Milchkaffee (Java)": {
+	"language": "Java",
+	"color": "#b07219",
+	"altNames": ["Milchkaffee NEU (Kotlin)"]
+	},
+"Cappuccino (Python)": {
+	"language": "Python",
+	"color": "#3572A5",
+	"altNames": []
+	},
+"Chocolate (bash)": {
+	"language": "Bash",
+	"color": "#89e051",
+	"altNames": []
+	},
+"Latte Macchiato (Ruby)": {
+	"language": "Ruby",
+	"color": "#701516",
+	"altNames": []
+	},
+"Heißes Wasser (Assembler)": {
+	"language": "Assembly",
+	"color": "#6E4C13",
+	"altNames": []
+	},
+"White Chocolate (Javascript)": {
+	"language": "JavaScript",
+	"color": "#f1e05a",
+	"altNames": []
+	},
+"Kaffee (C)": {
+	"language": "C",
+	"color": "#555555",
+	"altNames": ["Kaffee (C)"]
+	},
+"Kaffee (C--)": {
+	"language": "C--",
+	"color": "#555555",
+	"altNames": ["Kaffee Klein (K&R C)"]
+	},
+"Kaffee Crème (C++)": {
+	"language": "C++",
+	"color": "#f34b7d",
+	"altNames": [" Café Crème   ", "Kaffee Crème (C++)"]
+	},
+"Melange (Go)": {
+	"language": "Go",
+	"color": "#375eab",
+	"altNames": []
+	},
+"Espresso Doppio (Julia)": {
+	"language": "Julia",
+	"color": "#a270ba",
+	"altNames": []
+	},
+"Espresso Macchiato (Erlang)": {
+	"language": "Erlang",
+	"color": "#B83998",
+	"altNames": []
+	},
+"Ristretto (Scheme)": {
+	"language": "Scheme",
+	"color": "#1e4aec",
+	"altNames": []
+	},
+" Café americano (Rust)": {
+	"language": "Rust",
+	"color": "#dea584",
+	"altNames": []
+	},
+"White Chocolate Espresso (Swift)": {
+	"language": "Swift",
+	"color": "#ffac45",
+	"altNames": []
+	},
+"grosser Latte Macchiato (Rubinious)": {
+	"language": "Rubinius",
+	"color": "#701516",
+	"altNames": []
+	},
+"Chococcino (Perl)": {
+	"language": "Perl",
+	"color": "#0298c3",
+	"altNames": []
+	},
+"Chocolate Espresso (ObjectiveC)": {
+	"language": "Objective-C",
+	"color": "#438eff",
+	"altNames": ["Chocolate Espresso (ObjectiveC) OLD"]
+	}
+}
