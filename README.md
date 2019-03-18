@@ -2,6 +2,9 @@
 
 Creates bar chart from the export file of the coffee machine.
 
+![Example chart](https://raw.githubusercontent.com/ascii-dresden/coffee-statistics-chart/master/chart.png)
+
+
 ## Requirements
 
 * Python 3.X
