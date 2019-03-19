@@ -17,7 +17,7 @@ Creates bar chart from the export file of the coffee machine.
 ### Run
 
 ```
-python coffee.py /.../data.cs
+python coffee.py /.../data.csv
 ```
 
 ### New kind of coffee
